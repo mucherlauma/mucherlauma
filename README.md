@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mucherlauma&label=Profile%20views&color=0e75b6&style=flat" alt="mucherlauma" /> </p>
 
-- 🌱 I’m currently learning **HTML,CSS, Bootstrap frameworks**
+- 🌱 I’m currently learning **HTML,CSS, Bootstrap, javascript, ReactJs, node.js**
 
 - ⚡ Fun fact **I am funny**
 
